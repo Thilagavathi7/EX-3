@@ -18,8 +18,6 @@ To write a python program to perform sliding window protocol
  6.Stop the program
 
 ### PROGRAM:
-
-
 CLIENT:
 ```
 import socket
